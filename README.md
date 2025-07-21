@@ -111,7 +111,7 @@ The dashboard summarizes the analysis with interactive visuals:
 
 * **Python**: Data analysis and K-means clustering (with Pandas, Matplotlib, Seaborn, Scikit-learn)
 * **Power BI**: Dashboard and reporting
-* **Jupyter Notebook**: Data processing pipeline
+* **Google Collab**: Data processing pipeline
 
 ---
 
@@ -123,6 +123,6 @@ This project successfully demonstrates how unsupervised learning can segment cus
 
 ## Author
 
-* **Project by:** \Lingeshwaran G 
-* **LinkedIn:** \https://www.linkedin.com/in/lingeshdev/
-* **GitHub:** \https://github.com/LingeshDev
+* **Project by:** Lingeshwaran G 
+* **LinkedIn:** https://www.linkedin.com/in/lingeshdev/
+* **GitHub:** https://github.com/LingeshDev
