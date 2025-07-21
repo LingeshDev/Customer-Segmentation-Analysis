@@ -93,15 +93,15 @@ The dashboard summarizes the analysis with interactive visuals:
 ## Folder Structure
 
 ```
-Customer-Segmentation-Analysis/
-├── Dataset/
+📦 Customer-Segmentation-Analysis/
+├── dataset/
 │   └── Mall_Customers.csv
-├── JupyterNotebook/
+├── Python code/
 │   └── Customer_Segmentation_Analysis.ipynb
-├── PowerBI_Report/
-│   └── Customer Segmentation Dashboard.pbix
-├── Dashboard_Screenshot/
-│   └── Dashboard.png
+├── Dashboard & Reports/
+│   └── Customer_Segmentation_Dashboard.pbix
+├── images/
+│   └── powerbi_dashboard.png
 └── README.md
 ```
 
